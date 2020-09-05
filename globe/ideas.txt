@@ -1,0 +1,7 @@
+threejs spirite https://threejs.org/examples/#webgl_sprites_nodes
+
+threejs control https://threejs.org/examples/#webgl_loader_md2_control
+
+https://openclipart.org/detail/239883/walking-man-sprite-sheet
+
+https://github.com/mrdoob/three.js/blob/master/examples/webgl_sprites_nodes.html
